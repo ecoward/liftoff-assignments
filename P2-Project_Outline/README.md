@@ -7,11 +7,19 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+
+MedRemind is an web based application in which people can login into a web page and set up the medications that they take. Too many times, people forget to take their medication due to being busy with work, kids, family, pets, etc. This app will allow a person to set up a schedule online in which will contact the person via various contact methods such as calling, texting, email as a reminder with details and instructions.
+
+
 ### Features
-Include Features here
+
+Features include: USER LOGIN, for personal accounts; DATABASE, for storing each user's information about dosages and scheduling for each medication; SEARCH, for finding out other common dosages and information about different medication (dropdown/autofill text boxes).
+
+
 ### Technologies
-Include Technologies here
+
+I plan on using the following: Python, MySQL, Flask, Visual Code Studio, HTML/CSS, and Jinja. I will have to add an application for implementing notification of the user. 
 
 ### What I'll Have to Learn
-Include what you will need to learn here
+
+I will need to learn about apps (and/or programs) that allow intergration with texting, calling, email. 
